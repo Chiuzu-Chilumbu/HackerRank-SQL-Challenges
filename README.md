@@ -15,10 +15,10 @@ This repository contains SQL solutions designed to guide you and me through the 
 
 Here's a sneak peek at some of the challenges you'll find in this repository:
 
-- **Basic Select**: Retrieve all the data from the `Employees` table.
-- **Advanced Select**: Retrieve the names of employees who earn more than $100,000 per year.
-- **Aggregation**: Calculate the average salary of all employees.
-- **Basic Join**: Retrieve the name of each employee and the name of their manager.
+- **Basic SQL (Select, FROM, WHERE)**: Start with fundamental data retrieval and filtering using tables like Employees or Customers..
+- **ntermediate SQL (Aggregate Functions, GROUP BY)**: Dive into calculations using `SUM`, `AVG`, `COUNT`, and master grouping data to answer questions like "Which department has the highest total salary?".
+- **Advanced SQL (Subqueries, Joins)**: Tackle complex scenarios, such as identifying employees earning above the company-wide average salary by combining the power of subqueries and table joins.
+
 
 ## Contributing
 
